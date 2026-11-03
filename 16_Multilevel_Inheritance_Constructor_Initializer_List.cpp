@@ -4,11 +4,7 @@
                     OOPS LAB PROGRAM
 =========================================================
 
-Name          : Veeresh B Muragod
-Roll No       : 116
-Division      : A
-SRN           : 01FE24BEC416
-Semester      : 7th Semester
+
 
 Program Title : Multilevel Inheritance Using
                 Constructor Initializer List
