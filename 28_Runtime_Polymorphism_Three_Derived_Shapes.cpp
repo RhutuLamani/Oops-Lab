@@ -1,10 +1,6 @@
 ```cpp
 /*
-Name       : Veeresh B Muragod
-Roll No    : 116
-Division   : A
-SRN        : 01FE24BEC416
-Semester   : 7th Semester
+
 
 Program 28: Runtime Polymorphism Using Three Derived Classes
 Concept: Virtual Function and Function Overriding
